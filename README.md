@@ -1,7 +1,7 @@
 # 👋 Hi, I'm D Kumar
 
 💻 Full-Stack Developer | 🧠 Competitive Programmer | 🤖 AI/ML Enthusiast  
-🔬 Exploring Drone Technology, Data Analysis, and R&D with a problem-solving mindset
+🔬 Exploring Computer Science, Software Development, Data Analysis, and R&D with a problem-solving mindset
 
 ---
 
@@ -36,8 +36,8 @@
 
 - 💪 **Codeforces Expert**  
   ![Codeforces Badge](https://img.shields.io/badge/Max%20Rating-1630-blueviolet?style=flat&logo=codeforces&logoColor=white)  
-  - 🏆 Global Rank: **388** in Educational Round 148  
-  - 🏅 Rank **705** in Round 860
+  - 🏆 Global Rank **388** in Educational Round 148  
+  - 🏅 Secured Rank **705** in Round 860
 
 ---
 
