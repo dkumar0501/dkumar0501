@@ -45,3 +45,8 @@
 
 I'm always up for collaboration and innovation in full-stack dev, machine learning, and intelligent systems.  
 Let’s build something impactful together 🚀
+
+---
+
+⚠️ This content is protected under [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Do not reuse without permission.
+
