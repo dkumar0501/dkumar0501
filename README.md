@@ -32,19 +32,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-### 📈 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=dkumar0501&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-### 🧑‍💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dkumar0501&layout=compact&theme=radical)
-
-### 📅 GitHub Contributions
-![Your Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=dkumar0501&theme=react-dark)
-
----
-
 ## 💡 Coding Competencies
 
 - 💪 **Codeforces Expert**  
