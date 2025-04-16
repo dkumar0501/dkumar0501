@@ -32,6 +32,19 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+### 📈 GitHub Stats
+![Your Stats](https://github-readme-stats.vercel.app/api?username=d-kumar&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+### 🧑‍💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d-kumar&layout=compact&theme=radical)
+
+### 📅 GitHub Contributions
+![Your Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=d-kumar&theme=react-dark)
+
+---
+
 ## 💡 Coding Competencies
 
 - 💪 **Codeforces Expert**  
@@ -49,4 +62,3 @@ Let’s build something impactful together 🚀
 ---
 
 ⚠️ This content is protected under [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Do not reuse without permission.
-
