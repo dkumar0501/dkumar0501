@@ -1,6 +1,6 @@
 # 👋 Hi, I'm D Kumar
 
-💻 Computer Science | 🧠 Competitive Programmer | 🤖 AI/ML Enthusiast  
+💻 System Developer | 🧠 Competitive Programmer | 🤖 AI/ML Enthusiast  
 🔬 Exploring Computer Science, Software Development, Data Analysis, and R&D with a problem solving mindset
 
 ---
