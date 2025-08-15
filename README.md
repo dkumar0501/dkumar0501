@@ -1,7 +1,7 @@
 # 👋 Hi, I'm D Kumar
 
-💻 Full-Stack Developer | 🧠 Competitive Programmer | 🤖 AI/ML Enthusiast  
-🔬 Exploring Computer Science, Software Development, Data Analysis, and R&D with a problem-solving mindset
+💻 Computer Science | 🧠 Competitive Programmer | 🤖 AI/ML Enthusiast  
+🔬 Exploring Computer Science, Software Development, Data Analysis, and R&D with a problem solving mindset
 
 ---
 
