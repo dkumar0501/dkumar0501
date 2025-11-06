@@ -6,18 +6,21 @@
 ![Gitartwork](https://raw.githubusercontent.com/DKUMAR0501/DKUMAR0501/main/gitartwork.svg)
 
 
-#  👋 Hi, I'm D Kumar  
-💻 System Developer | 🧠 Competitive Programmer | 🤖 AI/ML & Data Science Enthusiast  
-🔬 Exploring Applied Physics, Sensor Technology, and Computational Research  
+#👋 Hi, I'm D Kumar  
+💻 System & Data Engineer | ☁️ Cloud & DevOps Enthusiast | 🤖 ML Engineer  
+🔬 Exploring Applied Physics, Computational Research & Intelligent Systems  
 
-🚀 Passionate About Building Intelligent Systems That Bridge Computer Science, Data Analytics, And Experimental Physics. I’m Currently Exploring Radiation Tolerant Sensing Techniques, Detector Simulations (Geant4, ROOT), And AI Driven Data Analysis For High Energy And Medical Physics Applications.  
- 
-### 💡 Interests:  
-- Radiation Detector R&D & Sensor Modeling  
-- AI/ML for Physics Data Analysis  
-- Real-Time Data Pipelines & System Design  
-- Scientific Computing (Python | C++ | ROOT | Geant4)  
-- Fusion, Particle & Medical Physics Applications  
+🚀 Passionate About Building Scalable, Data Driven Systems At The Intersection Of Computer Science, Data Engineering, and Applied Physics  From Intelligent Analytics Pipelines To High Performance Simulations.
+
+## 🧩 Domains & Interests:  
+- Data Engineering & Real Time Analytics  
+- Cloud Computing & DevOps (Docker, Kubernetes, CI/CD)  
+- Machine Learning & Computational Modeling  
+- Distributed Systems & HPC Applications  
+- Radiation Tolerant Sensing & Detector Simulations (Geant4, ROOT)  
+- Scientific Computing (Python | C++ | SQL | Spark)
+
+🌱 Always learning — where **data meets discovery**.
 
 ## 🧠 Skills & Tools
 ---
