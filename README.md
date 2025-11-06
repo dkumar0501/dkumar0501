@@ -1,8 +1,5 @@
 ![Gitartwork](https://raw.githubusercontent.com/DKUMAR0501/DKUMAR0501/main/gitartwork.svg)
 
-<!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
 # 👋 Hi, I'm D Kumar  
 💻 System & Data Engineer | ☁️ Cloud & DevOps Enthusiast | 🤖 ML Engineer  
 🔬 Exploring Applied Physics, Computational Research & Intelligent Systems  
@@ -19,6 +16,10 @@
 - Scientific Computing (Python | C++ | SQL | Spark)
 
 🌱 Always Learning  Where Data Meets Discovery
+
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 
 ## 🧠 Skills & Tools
 
