@@ -1,16 +1,23 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: DKUMAR0501
-            # Text on contribution graph 
-            text: D KUMAR
-       - uses: jasineri/simple-push-action@v1
+name: Generate GitHub Contribution Graph Artwork
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate contribution graph SVG
+        uses: jasineri/gitartwork@main  # Public action
+        with:
+          user_name: DKUMAR0501
+          text: D KUMAR
+
+      - name: Commit SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update gitartwork.svg"
