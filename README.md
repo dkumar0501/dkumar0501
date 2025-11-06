@@ -33,7 +33,7 @@
 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Fortran](https://img.shields.io/badge/-Fortran-734F96?logoColor=white) |
 | ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=white) | ![Bash/Shell](https://img.shields.io/badge/-Bash%2FShell-4EAA25?logo=gnu-bash&logoColor=white) | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) |
 
-
+--
 
 ### 📚 Libraries & Frameworks
 
@@ -42,7 +42,7 @@
 | ![Seaborn](https://img.shields.io/badge/-Seaborn-9E9E9E) | ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white) | ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white) |
 | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) | ![Dash](https://img.shields.io/badge/-Dash-00A3E0?logo=plotly&logoColor=white) |
 
-
+--
 
 ### 🧪 Tools & Platforms
 
