@@ -1,12 +1,15 @@
 ![Gitartwork](https://raw.githubusercontent.com/DKUMAR0501/DKUMAR0501/main/gitartwork.svg)
 
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 # 👋 Hi, I'm D Kumar  
 💻 System & Data Engineer | ☁️ Cloud & DevOps Enthusiast | 🤖 ML Engineer  
 🔬 Exploring Applied Physics, Computational Research & Intelligent Systems  
 
 🚀 Passionate About Building Scalable, Data Driven Systems At The Intersection Of Computer Science, Data Engineering, and Applied Physics  From Intelligent Analytics Pipelines To High Performance Simulations.
 
-# 🧩 Domains & Interests:
+## 🧩 Domains & Interests:
 
 - Data Engineering & Real Time Analytics  
 - Cloud Computing & DevOps (Docker, Kubernetes, CI/CD)  
@@ -17,7 +20,7 @@
 
 🌱 Always Learning  Where Data Meets Discovery
 
-# 🧠 Skills & Tools
+## 🧠 Skills & Tools
 
 ### 🛠️ Programming Languages
 
@@ -57,13 +60,13 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
-# 🤖 GitHub Stats
+## 🤖 GitHub Stats
 
 <p align="Left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkumar0501&theme=github_dark"/>
 </p>
 
-# 💡 Coding Competencies
+## 💡 Coding Competencies
 
 - 💪 **Codeforces Expert**  
   ![Codeforces Badge](https://img.shields.io/badge/Max%20Rating-1630-blueviolet?style=flat&logo=codeforces&logoColor=white)  
@@ -71,7 +74,7 @@
   - 🏅 Secured Rank **705** in Round 860
 
 
-# 📫 Let's Connect
+## 📫 Let's Connect
 
 I'm always up for collaboration and innovation in full-stack dev, machine learning, and intelligent systems.  
 Let’s build something impactful together 🚀
