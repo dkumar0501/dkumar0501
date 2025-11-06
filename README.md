@@ -6,7 +6,7 @@
 ![Gitartwork](https://raw.githubusercontent.com/DKUMAR0501/DKUMAR0501/main/gitartwork.svg)
 
 
-👋 Hi, I'm D Kumar  
+#  👋 Hi, I'm D Kumar  
 💻 System Developer | 🧠 Competitive Programmer | 🤖 AI/ML & Data Science Enthusiast  
 🔬 Exploring Applied Physics, Sensor Technology, and Computational Research  
 
