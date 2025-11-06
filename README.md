@@ -7,12 +7,14 @@
 
 
 # 👋 Hi, I'm D Kumar  
+---
 💻 System & Data Engineer | ☁️ Cloud & DevOps Enthusiast | 🤖 ML Engineer  
 🔬 Exploring Applied Physics, Computational Research & Intelligent Systems  
 
 🚀 Passionate About Building Scalable, Data Driven Systems At The Intersection Of Computer Science, Data Engineering, and Applied Physics  From Intelligent Analytics Pipelines To High Performance Simulations.
 
-## 🧩 Domains & Interests:  
+## 🧩 Domains & Interests:
+---
 - Data Engineering & Real Time Analytics  
 - Cloud Computing & DevOps (Docker, Kubernetes, CI/CD)  
 - Machine Learning & Computational Modeling  
@@ -23,7 +25,7 @@
 🌱 Always Learning  Where Data Meets Discovery
 
 ## 🧠 Skills & Tools
-
+---
 ### 🛠️ Programming Languages
 
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
@@ -51,9 +53,10 @@
 | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
 | ![ROOT](https://img.shields.io/badge/-ROOT-55a630?logo=data&logoColor=white) | ![Indico](https://img.shields.io/badge/-Indico-00457C?logoColor=white) |  |
 
+---
 
 ## 💡 Coding Competencies
-
+---
 - 💪 **Codeforces Expert**  
   ![Codeforces Badge](https://img.shields.io/badge/Max%20Rating-1630-blueviolet?style=flat&logo=codeforces&logoColor=white)  
   - 🏆 Global Rank **388** in Educational Round 148  
@@ -61,7 +64,7 @@
 
 
 ## 📫 Let's Connect
-
+---
 I'm always up for collaboration and innovation in full-stack dev, machine learning, and intelligent systems.  
 Let’s build something impactful together 🚀
 
