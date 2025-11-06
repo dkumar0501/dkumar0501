@@ -20,7 +20,7 @@
 - Radiation Tolerant Sensing & Detector Simulations (Geant4, ROOT)  
 - Scientific Computing (Python | C++ | SQL | Spark)
 
-🌱 Always learning — where **data meets discovery**.
+🌱 Always Learning  Where Data Meets Discovery
 
 ## 🧠 Skills & Tools
 
