@@ -10,8 +10,8 @@
 💻 System Developer | 🧠 Competitive Programmer | 🤖 AI/ML & Data Science Enthusiast  
 🔬 Exploring Applied Physics, Sensor Technology, and Computational Research  
 
-🚀 Passionate about building intelligent systems that bridge **computer science, data analytics, and experimental physics**.  
-I’m currently exploring **radiation-tolerant sensing techniques**, **detector simulations (Geant4, ROOT)**, and **AI-driven data analysis** for high-energy and medical physics applications.  
+🚀 Passionate About Building Intelligent Systems That Bridge **Computer Science, Data Analytics, And Experimental Physics**.  
+I’m Currently Exploring **Radiation Tolerant Sensing Techniques**, **Detector Simulations (Geant4, ROOT)**, And **AI Driven Data Analysis** For High Energy And Medical Physics Applications.  
 
 💡 Interests:  
 
