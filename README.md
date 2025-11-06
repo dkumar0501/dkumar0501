@@ -6,7 +6,7 @@
 ![Gitartwork](https://raw.githubusercontent.com/DKUMAR0501/DKUMAR0501/main/gitartwork.svg)
 
 
-#👋 Hi, I'm D Kumar  
+# 👋 Hi, I'm D Kumar  
 💻 System & Data Engineer | ☁️ Cloud & DevOps Enthusiast | 🤖 ML Engineer  
 🔬 Exploring Applied Physics, Computational Research & Intelligent Systems  
 
@@ -23,7 +23,7 @@
 🌱 Always learning — where **data meets discovery**.
 
 ## 🧠 Skills & Tools
----
+
 ### 🛠️ Programming Languages
 
 | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
