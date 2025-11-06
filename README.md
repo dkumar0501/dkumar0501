@@ -1,5 +1,5 @@
 
-<p align="left">
+<p align="Centre">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkumar0501&theme=github_dark"/>
 </p>
 
