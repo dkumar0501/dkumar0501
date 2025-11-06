@@ -4,7 +4,7 @@
 💻 System & Data Engineer | ☁️ Cloud & DevOps Enthusiast | 🤖 ML Engineer  
 🔬 Exploring Applied Physics, Computational Research & Intelligent Systems  
 
-🚀 Passionate About Building Scalable, Data Driven Systems At The Intersection Of Computer Science, Data Engineering, and Applied Physics  From Intelligent Analytics Pipelines To High Performance Simulations.
+🚀 Passionate About Building Scalable, Data Driven Systems At The Intersection Of Computer Science, Data Engineering, And Applied Physics  From Intelligent Analytics Pipelines To High Performance Simulations.
 
 ## 🧩 Domains & Interests:
 
@@ -70,14 +70,14 @@
 
 - 💪 **Codeforces Expert**  
   ![Codeforces Badge](https://img.shields.io/badge/Max%20Rating-1630-blueviolet?style=flat&logo=codeforces&logoColor=white)  
-  - 🏆 Global Rank **388** in Educational Round 148  
-  - 🏅 Secured Rank **705** in Round 860
+  - 🏆 Global Rank **388** In Educational Round 148  
+  - 🏅 Secured Rank **705** In Round 860
 
 
 ## 📫 Let's Connect
 
-I'm always up for collaboration and innovation in full-stack dev, machine learning, and intelligent systems.  
-Let’s build something impactful together 🚀
+I'm Always Up For Collaboration And Innovation In System Computation, Machine Learning, And Intelligent Systems.  
+Let’s Build Something Impactful Together 🚀
 
 <!-- Matrix Background Animation -->
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
