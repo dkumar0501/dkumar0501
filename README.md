@@ -41,8 +41,6 @@
 
 ### 🧪 Tools & Platforms
 
-### 🧩 Tools & Platforms
-
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Zookeeper](https://img.shields.io/badge/Zookeeper-F46800?style=for-the-badge&logo=apache&logoColor=white)
@@ -65,7 +63,11 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 
+## GitHub Stats
 
+<p align="Left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dkumar0501&theme=github_dark"/>
+</p>
 
 ## 💡 Coding Competencies
 
