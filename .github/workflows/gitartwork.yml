@@ -15,7 +15,7 @@ jobs:
         uses: jasineri/gitartwork@main  # Public action
         with:
           user_name: DKUMAR0501
-          text: Hi I Am D KUMAR
+          text: D KUMAR
 
       - name: Commit SVG
         uses: stefanzweifel/git-auto-commit-action@v5
