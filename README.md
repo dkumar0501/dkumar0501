@@ -27,10 +27,9 @@
 
 ### 🛠️ Programming Languages
 
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
-|---|---|---|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | ![Fortran](https://img.shields.io/badge/-Fortran-734F96?logoColor=white) |
-| ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=white) | ![Bash/Shell](https://img.shields.io/badge/-Bash%2FShell-4EAA25?logo=gnu-bash&logoColor=white) | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white) | ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white) | ![Bash/Shell](https://img.shields.io/badge/Bash%2FShell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) |  |
+
 
 ---
 
