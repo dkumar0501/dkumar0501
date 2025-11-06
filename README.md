@@ -6,10 +6,14 @@
 ![Gitartwork](https://raw.githubusercontent.com/DKUMAR0501/DKUMAR0501/main/gitartwork.svg)
 
 
-# 👋 Hi, I'm D Kumar
+👋 Hi, I'm D Kumar  
+💻 System Developer | 🧠 Competitive Programmer | 🤖 AI/ML & Data Science Enthusiast  
+🔬 Exploring Applied Physics, Sensor Technology, and Computational Research  
 
-💻 System Developer | 🧠 Competitive Programmer | 🤖 AI/ML Enthusiast  
-🔬 Exploring Computer Science, Software Development, Data Analysis, and R&D with a problem solving mindset
+🚀 Passionate about building intelligent systems that bridge **computer science, data analytics, and experimental physics**.  
+I’m currently exploring **radiation-tolerant sensing techniques**, **detector simulations (Geant4, ROOT)**, and **AI-driven data analysis** for high-energy and medical physics applications.  
+
+💡 Interests:  
 
 ---
 
