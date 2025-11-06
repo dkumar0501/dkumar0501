@@ -13,13 +13,12 @@
 🚀 Passionate About Building Intelligent Systems That Bridge **Computer Science, Data Analytics, And Experimental Physics**.  
 I’m Currently Exploring **Radiation Tolerant Sensing Techniques**, **Detector Simulations (Geant4, ROOT)**, And **AI Driven Data Analysis** For High Energy And Medical Physics Applications.  
  
-💡 Interests:  
+ 💡 Interests:  
 - Radiation Detector R&D & Sensor Modeling  
 - AI/ML for Physics Data Analysis  
 - Real-Time Data Pipelines & System Design  
 - Scientific Computing (Python | C++ | ROOT | Geant4)  
 - Fusion, Particle & Medical Physics Applications  
----
 
 ## 🧠 Skills & Tools
 
