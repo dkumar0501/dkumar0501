@@ -17,10 +17,6 @@
 
 🌱 Always Learning  Where Data Meets Discovery
 
-<!-- Matrix Background Animation -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-
 ## 🧠 Skills & Tools
 
 ### 🛠️ Programming Languages
@@ -80,5 +76,7 @@
 I'm always up for collaboration and innovation in full-stack dev, machine learning, and intelligent systems.  
 Let’s build something impactful together 🚀
 
+<!-- Matrix Background Animation -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 ⚠️ This content is protected under [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Do not reuse without permission.
