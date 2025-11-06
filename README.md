@@ -51,7 +51,6 @@
 | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
 | ![ROOT](https://img.shields.io/badge/-ROOT-55a630?logo=data&logoColor=white) | ![Indico](https://img.shields.io/badge/-Indico-00457C?logoColor=white) |  |
 
----
 
 ## 💡 Coding Competencies
 
@@ -60,13 +59,11 @@
   - 🏆 Global Rank **388** in Educational Round 148  
   - 🏅 Secured Rank **705** in Round 860
 
----
 
 ## 📫 Let's Connect
 
 I'm always up for collaboration and innovation in full-stack dev, machine learning, and intelligent systems.  
 Let’s build something impactful together 🚀
 
----
 
 ⚠️ This content is protected under [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/). Do not reuse without permission.
