@@ -5,7 +5,7 @@
 🔬 Exploring Applied Physics, Computational Research & Intelligent Systems   
 
 🚀 Passionate About Building Scalable, Data Driven Systems At The Intersection Of Computer Science, Data Engineering, And Applied Physics  From Intelligent Analytics Pipelines To High Performance Simulations.
-
+ 
 ## 🧩 Domains & Interests:
 
 - Data Engineering & Real Time Analytics  
