@@ -1,4 +1,4 @@
-![Gitartwork](https://raw.githubusercontent.com/DKUMAR0501/DKUMAR0501/main/gitartwork2.svg)
+![Gitartwork](https://raw.githubusercontent.com/DKUMAR0501/DKUMAR0501/main/dar_mode.svg)
 ![Gitartwork](https://raw.githubusercontent.com/DKUMAR0501/DKUMAR0501/main/gitartwork.svg)
 
 # 👋 Hi, I'm D Kumar
