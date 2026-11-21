@@ -7,7 +7,7 @@
 
 🧠 Building Intelligent Systems with Machine Learning, Deep Learning, LLMs & Agentic AI
 
-☁️ Exploring Scalable AI Infrastructure, Distributed Systems & Cloud Computing
+☁️ Exploring Scalable AI Infrastructure, Distributed Systems & Cloud Computing 
 
 🔬 Interested in Scientific AI, Computational Research & High-Performance Computing
 
